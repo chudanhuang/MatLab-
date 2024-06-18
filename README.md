@@ -9,3 +9,4 @@ fog_work.m是雾天模糊图像复原的文件
 用于测试水下图像复原效果的图片是：Fish_input.png和Diver_input.png
 用于测试雾天图像复原效果的图片是：city_input.png和cityscape_input.png
 用于运动模糊图像复原测试的图片是：ian1.png
+最后的那个报告是做这个项目的一些步骤，涉及到的公式以及过程中遇到的一些问题，最后一个运动模糊的部分没有参考意义，我做的时候有点蒙圈
